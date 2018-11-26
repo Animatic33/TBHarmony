@@ -2,5 +2,5 @@
 Scripts for Toonboom Harmony
 
 
-Some scripts here will require the "AG_HarmonyObjLibrary.js" and the "AG_HarmonyFuncLib.js" files to function. 
-They are object-wrapper libraries I have written to turn the node object into more OOS styled coding.
+Some scripts will require the AG_HarmonyObjLib.js and AG_HarmonyFunctions.js to function. 
+These are WIP wrapper libraries I have written to allow for a more object-oriented style.
