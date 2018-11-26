@@ -1,5 +1,5 @@
 // Master Peg Renamer
-// A Glisinski - Nelvana 2018
+// A Glisinski
 /* function checkNodes(parentGrp, nameToFind) // WIP
 {
 	var nodeFound = "";
