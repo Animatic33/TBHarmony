@@ -1,5 +1,5 @@
 // Check Node Network for Attribute Value
-// By Andrew Glisinski. May 17 2018 - Nelvana
+// By Andrew Glisinski. May 17 2018
 
 var pegsFound = [];
 
