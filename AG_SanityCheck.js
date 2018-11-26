@@ -1,4 +1,4 @@
-// Sanity Checker for Toonboom by Andrew Glisinski (@ Nelvana Toronto 2018)
+// Sanity Checker for Toonboom by Andrew Glisinski (2018)
 
 // TODO: - Check disabled reads to ensure they have a drawing specified.
 
