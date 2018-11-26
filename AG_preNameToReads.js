@@ -1,5 +1,5 @@
 // Prefix All Reads of a Character to a Given Name or Scene Name
-// May 15 2018 - Andrew Glisinski, Nelvana
+// May 15 2018 - Andrew Glisinski
 // Oct 3 2018 - update to include any reads as well.
  
 // How to Use:
